@@ -436,6 +436,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img height="12" width="12" src="https://pipedream.com/favicon.ico" alt="Pipedream Logo" /> [Pipedream](https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol) - Connect with 2,500 APIs with 8,000+ prebuilt tools, and manage servers for your users, in your own app.
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
+- <img height="12" width="12" src="https://toolweave.dev/static/favicon.svg" alt="toolweave" /> [toolweave](https://toolweave.dev) - Multi-tenant MCP gateway: 100+ tools for Claude, GPT and Gemini behind one endpoint, plus no-code custom connectors (paste any API's docs and get a working tool) and scheduled agent workers with email, webhook, memory and storage.
 
 <br />
 
